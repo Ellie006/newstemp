@@ -10,3 +10,11 @@
    width: 100%;
    margin-top: 10px;
  }
+
+.column {
+   background-color: tan;
+   height: 600px;
+   width: 250px;
+   float: left;
+   
+}
